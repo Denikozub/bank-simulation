@@ -1,6 +1,7 @@
 ### Запуск
 ~~~
-pip install streamlit
+# python >= 3.9
+pip install numpy streamlit
 streamlit run main.py
 ~~~
 
